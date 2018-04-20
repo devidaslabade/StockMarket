@@ -1,0 +1,9 @@
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:30",  "price": "5","volume": "60"}
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:31",  "price": "10","volume": "70"}
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:32",  "price": "20","volume": "80"}
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:33",  "price": "30","volume": "90"}
+
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:34",  "price": "40","volume": "91"}
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:35",  "price": "50","volume": "92"}
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:36",  "price": "60","volume": "93"}
+{"stock_symbol": "XYZ", "timestamp": "2018-02-28 11:01:37",  "price": "70","volume": "94"}
